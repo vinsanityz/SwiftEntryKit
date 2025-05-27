@@ -141,7 +141,7 @@ struct PresetsDataSource {
         descriptionThumb = ThumbDesc.topToast.rawValue
         description = .init(
             with: attributes,
-            title: "Top I",
+            title: "Top 中成长",
             description: descriptionString,
             thumb: descriptionThumb
         )
