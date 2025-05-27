@@ -110,7 +110,16 @@ public final class SwiftEntryKit {
             EKWindowProvider.shared.display(view: view, using: attributes, presentInsideKeyWindow: presentInsideKeyWindow, rollbackWindow: rollbackWindow)
         }
     }
-    
+    func zcznb666(){
+        
+        
+        
+    }
+    func zcznb777(){
+        
+        
+        
+    }
     /**
      Displays a given entry view controller using an attributes struct.
      - A thread-safe method - Can be invokes from any thread
